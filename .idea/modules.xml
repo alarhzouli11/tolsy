@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aggregator.iml" filepath="$PROJECT_DIR$/aggregator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api.business/api.business.iml" filepath="$PROJECT_DIR$/api.business/api.business.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api.messaging/api.messaging.iml" filepath="$PROJECT_DIR$/api.messaging/api.messaging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/authorization-server/authorization-server.iml" filepath="$PROJECT_DIR$/authorization-server/authorization-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway/gateway.iml" filepath="$PROJECT_DIR$/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/load-balancer/loadBalancer.iml" filepath="$PROJECT_DIR$/load-balancer/loadBalancer.iml" />
+    </modules>
+  </component>
+</project>
